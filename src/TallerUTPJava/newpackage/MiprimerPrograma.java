@@ -19,6 +19,6 @@ public class MiprimerPrograma {
       //Imprimir el nombre del usuario
       System.out.println("Mi nombre es Dennys");
       //Imprimir la edad del usuario
-      System.out.println("Mi nombre es Dennys");
+      System.out.println("Tengo 31 años");
   }  
 }
